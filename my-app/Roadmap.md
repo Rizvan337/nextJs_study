@@ -30,6 +30,7 @@ This roadmap documents my structured learning path for **Next.js**, followed ste
 - [x] File-based Routing
 - [x] Nested routes
 - [x] Dynamic routes
+- [x] Nested Dynamic routing
 - [x] Pages & Layouts
 - [x] Linking & Navigation
 - [x] Static Assets
