@@ -32,6 +32,10 @@ This roadmap documents my structured learning path for **Next.js**, followed ste
 - [x] Dynamic routes
 - [x] Nested Dynamic routing
 - [x] Catch All Segments
+- [x] File Colocation (All in one .css,.jsx)
+- [x] Private Folder (/\_)
+- [x] Route Groups (auth)
+- [x] Layouts (Components)
 
 ---
 
